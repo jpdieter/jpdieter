@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**jpdieter/jpdieter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Oregon State University, pursuing a post-baccalaureate B.S. in Computer Science (expected 2027, GPA: 3.5).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After more than 10 years working in enterprise IT, I'm transitioning into software engineering, with interests in backend development, full-stack applications, and software testing.
+
+### Current Project
+
+**MountainScore** — A mountain recreation decision platform that integrates weather, air quality, wildfire activity, road conditions, and other environmental data to evaluate conditions across 175 destinations in 32 regions.
+
+The web platform is established, and I'm currently developing a companion mobile application using React Native, Expo, and TypeScript.
+
+- **Web:** JavaScript, React, Vite, Node.js, Express, PostgreSQL
+- **Mobile (in development):** TypeScript, React Native, Expo
+- **Testing:** Node.js test runner, Playwright
+
+My work involves designing and refining scoring logic, integrating external data sources, evaluating application behavior, and testing and debugging implementations.
+
+MountainScore is maintained in a private repository.
+
+### Technical Skills
+
+- **Languages:** JavaScript, Python, SQL, TypeScript
+- **Frontend & Mobile:** React, Vite, React Native, Expo
+- **Backend & Databases:** Node.js, Express, PostgreSQL, MongoDB, REST APIs
+- **Testing & Tools:** Playwright, Git, GitHub Actions, Linux
+
+### Career Interests
+
+I'm interested in US-remote software engineering, backend development, and QA automation opportunities, including internships and early-career positions.
