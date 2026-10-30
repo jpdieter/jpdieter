@@ -7,7 +7,7 @@ After more than 10 years in enterprise IT, I'm transitioning into software engin
 
 ### Current Project
 
-**[MountainScore](mountainscore.com)** — A live mountain recreation decision platform that integrates weather, air quality, wildfire activity, road conditions, and other environmental data to evaluate conditions across 175 destinations in 32 regions.
+**[MountainScore](https://mountainscore.com)** — A live mountain recreation decision platform that integrates weather, air quality, wildfire activity, road conditions, and other environmental data to evaluate conditions across 175 destinations in 32 regions.
 
 The web platform is live, and I'm currently developing a companion mobile application.
 
